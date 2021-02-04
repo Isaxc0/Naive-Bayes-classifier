@@ -4,4 +4,4 @@ Training data: bag-of-words representation of corpus. Bag-of-words should be an 
 
 Classifier output: List containing labels/label of document.
 
-Evaluate the classifier using evaluate_classifier.py. Can be used to find F1 score precision and recall.
+Evaluate the classifier using evaluate_classifier.py. Can be used to find F1 score, precision and recall.
